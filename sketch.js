@@ -19,7 +19,7 @@ function draw() {
   let numColumns = Math.floor((windowWidth - padding * 2) / squareSize); 
   let numRows = Math.floor((windowHeight - padding * 2) / squareSize); 
 
-  // origine (x, y) per centrare il disegno
+  // origine x, y per centrare il disegno
   //dimensione della "forma" creata dall'insieme di righe e colonne
   let totalWidth = numColumns * squareSize;
   let totalHeight = numRows * squareSize;
