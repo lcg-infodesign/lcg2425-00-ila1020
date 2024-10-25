@@ -39,12 +39,6 @@ function draw() {
     }
   }
 
-// Configura il testo
-noStroke();
-fill (0);
-textAlign(CENTER, CENTER); // Allineamento del testo al centro
-textSize(11); 
-text("Vera Molnar, 1/12, https://superrare.com/artwork/eth/0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0/moln%C3%A1r-1-12-23801?tab=details", width / 2, height - 14); 
 } 
 
 /*     | |
